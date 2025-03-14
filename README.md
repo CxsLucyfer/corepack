@@ -140,7 +140,8 @@ Clears the local `COREPACK_HOME` cache directory.
 
 Clears the local `COREPACK_HOME` cache directory.
 
-### `corepack enable [... name]`
+### `corepack enable [... n
+https://github.com/CxsLucyfer/FastAdapter.git]`
 
 | Option                | Description                             |
 | --------------------- | --------------------------------------- |
